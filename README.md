@@ -1,16 +1,16 @@
 # Ignite Feed
 
-In this project I create a simple feed utilizing ReactJS.🧬 
+Neste projeto, criei um feed simples utilizando ReactJS.  🧬 
 
-## Project Description
+## Descrição do projeto
 
-Using ReactJS, I built a simple Feed, similar to an Instagram Feed. With the help of the RocketSeat course classes, it was possible to simplify this process and make it interactive, enabling a great advance in my knowledge in React and TypeScript development.🥰 
+Usando ReactJS, construí um feed simples, semelhante a um feed do Instagram. Com o auxílio das aulas do curso da RocketSeat, foi possível simplificar esse processo e torná-lo interativo, possibilitando um grande avanço no meu conhecimento em desenvolvimento React e TypeScript.🥰 
 
 ![UploadExample](https://github.com/PeixerDev/IgniteProject/assets/127341082/003a0da1-6d82-4457-ad94-2ebe40c9723a)
 
 ## Features
 
-- System to delete comment 😀
-- System for comment likes 👍
-- Publish button 💬
-- Functional links 👾 
+- Sistema para deletar comentários 😀
+- Sistema de likes 👍
+- Botão de publicar 💬
+- Links funcionais 👾 
